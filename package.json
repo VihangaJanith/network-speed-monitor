@@ -1,12 +1,16 @@
 {
   "name": "network-speed-monitor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "network-speed-monitor",
+    "network-speed",
+    "network-speed-nodejs"
+  ],
   "author": "Vihanga Janith",
   "license": "ISC",
   "dependencies": {
