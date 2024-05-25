@@ -24,7 +24,7 @@ monitor.startMonitoring((stats) => {
 });
 
 // To stop monitoring
-// monitor.stopMonitoring();
+monitor.stopMonitoring();
 ```
 
 ## API
