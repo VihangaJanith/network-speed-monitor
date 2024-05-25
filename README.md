@@ -1,6 +1,6 @@
 # Network Speed Monitor
 
-A Node.js module for monitoring network speed.
+A Node.js module for monitoring real-time network upload and download speeds. This module allows you to monitor the current network speed at a specified refresh interval, making it useful for applications that require up-to-date network performance information.
 
 ## Installation
 
