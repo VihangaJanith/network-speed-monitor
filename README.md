@@ -10,7 +10,7 @@ npm install network-speed-monitor
 
 ## Usage
 
-```bash
+```javascript
 const NetworkSpeedMonitor = require("network-speed-monitor");
 
 // Create a new instance with refresh interval (in ms) and unit ("KB" or "MB" or "GB")
@@ -35,3 +35,5 @@ monitor.startMonitoring((stats) => {
 - `unit`: Unit of measurement for network speed. Available options:"KB", "MB", "GB".
 - `startMonitoring()`: Starts monitoring the network speed.
 - `stopMonitoring()`: Stops monitoring the network speed.
+-
+-
