@@ -27,7 +27,7 @@ monitor.startMonitoring((stats) => {
 monitor.stopMonitoring();
 ```
 
-## API
+## How It Works
 
 `new NetworkSpeedMonitor(interval: number, unit: string)` Creates a new instance of `NetworkSpeedMonitor`.
 
