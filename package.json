@@ -6,13 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VihangaJanith/network-speed-monitor-module.git"
+  },
   "keywords": [
     "network-speed-monitor",
     "network-speed",
     "network-speed-nodejs"
   ],
   "author": "Vihanga Janith",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "systeminformation": "^5.22.9"
   }
